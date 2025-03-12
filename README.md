@@ -1,7 +1,9 @@
-## things to do
-- Create a not found Page. x
+Here is the React code for my website.
+See the site here: https://z1shivam.web.app/
+---
 
-## upcoming
-
-1. fix titles of different pages.
-2. 
+- Written in TypeScript
+- TailwindCSS
+- Firebase Backend
+- Basic Analytics
+- ShadCN UI
